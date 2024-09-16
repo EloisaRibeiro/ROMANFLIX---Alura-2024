@@ -10,23 +10,14 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb#d0116e(201, 27, 56)
+    justify-content: center;
 }
 
 div {
     color: rgb(3, 3, 3);
     font-style: unset;
 }
-
-
-section {
-    background: rgb(214, 242, 114);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
-}
-
-
+.chamada {}
 
 .chamada-texto {
     font-family: "Handlee", cursive;
